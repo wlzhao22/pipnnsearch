@@ -43,7 +43,7 @@ $ build/xgnnd_search \
 
 ## Experimental Results
 
-We evaluated the performance of ours method on several standard benchmark datasets. 
+We evaluated the performance of our method on several standard benchmark datasets. 
 ### Single-GPU Performance
 <div align="center">
   <img src="./images/label.png" width="50%">
