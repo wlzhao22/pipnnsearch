@@ -1,6 +1,6 @@
 ## Introduction
 
-This project shares the Pipelined Heterogeneous Multi-GPU search
+This project shares the Pipelined Heterogeneous Multi-GPU Search
 (PHM Search) in C++. This method allows both the raw vectors and the graph
 index to be kept in CPU memory. The vectors and the graph entries are loaded
 into device memory when they are traversed by the queries. It, therefore,
