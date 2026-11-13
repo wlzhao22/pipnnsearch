@@ -54,6 +54,7 @@ We evaluated the performance of our method on several standard benchmark dataset
   <img src="./images/SPACEV100M_Recall@10.png" width="24.5%">
 </div>
 
+
 ### Multi-GPU Performance
 <div align="center">
   <img src="./images/label_gpus.png" width="65%">
