@@ -10,7 +10,7 @@ multiple GPUs in parallel.
 
 ## Building
 
-To build graphcut_search, ensure you have CUDA Toolkit (12.4+ recommended),
+To build PHM Search, ensure you have CUDA Toolkit (12.4+ recommended),
 OpenMP, and a C++14 compatible compiler installed.
 
 ```bash
