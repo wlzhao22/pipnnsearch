@@ -1,5 +1,3 @@
-# Graph-Cut Search
-
 ## Introduction
 
 This project shares the Pipelined Heterogeneous Multi-GPU search
